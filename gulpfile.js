@@ -2,7 +2,6 @@ var gulp = require('gulp');
 var ts = require('gulp-typescript');
 var sourcemaps = require('gulp-sourcemaps');
 var browserify = require('browserify');
-var source = require('vinyl-source-stream');
 var webpack = require('gulp-webpack');
 
 gulp.task('build', ['serverBuild', 'clientBuild']);

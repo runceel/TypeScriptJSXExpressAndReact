@@ -21,6 +21,5 @@
     "gulp-typescript": "^2.10.0",
     "gulp-webpack": "^1.5.0",
     "ts-loader": "^0.7.2",
-    "vinyl-source-stream": "^1.1.0"
   }
 }
