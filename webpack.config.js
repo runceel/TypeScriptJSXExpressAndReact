@@ -1,9 +1,7 @@
 var webpack = require('webpack');
 var path = require('path');
 module.exports = {
-    entry: { 
-        app: './client/app.tsx'
-    },
+    entry: './client/app.tsx',
     output: {
         filename: 'bundle.js'
     },
