@@ -1,0 +1,6 @@
+/node_modules
+/client/typings
+/client/**/*.js
+/server/typings
+/server/**/*.js
+/server/public/scripts/bundle.js
